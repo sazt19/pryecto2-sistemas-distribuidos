@@ -1,6 +1,6 @@
 # Proyecto: BookStore Monolithic App – Despliegue con Docker, NGINX y MySQL
 
-**Materia:** ST0263 – Teleinformática
+**Materia:** ST0263 – Sistemas Distribuidos
 
 **Estudiante:** *Sara Zuluaga* *szuluagat@eafit.edu.co*
 
