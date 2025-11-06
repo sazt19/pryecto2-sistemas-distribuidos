@@ -1,9 +1,11 @@
 # Proyecto: BookStore Monolithic App – Despliegue con Docker, NGINX y MySQL
 
 **Materia:** ST0263 – Teleinformática
+
 **Estudiante:** *Sara Zuluaga* *szuluagat@eafit.edu.co*
 
 **Estudiante:** *Valeria Cardona* *vcardonau@eafit.edu.co*
+
 **Profesor:** *Edwin Nelson Montoya Munera*, *emontoya@eafit.edu.co*
 
 ---
