@@ -2,6 +2,7 @@
 
 **Materia:** ST0263 – Teleinformática
 **Estudiante:** *Sara Zuluaga* *szuluagat@eafit.edu.co*
+
 **Estudiante:** *Valeria Cardona* *vcardonau@eafit.edu.co*
 **Profesor:** *Edwin Nelson Montoya Munera*, *emontoya@eafit.edu.co*
 
@@ -267,5 +268,3 @@ http://<IP_PUBLICA_APP>
 *https://github.com/st0263eafit/st0263-252/blob/main/proyecto2/BookStore.zip*
 
 ---
-
-Si deseas, puedo también generarte **diagramas de arquitectura** en ASCII o como imagen, o dejar este README con estilo Markdown completo listo para GitHub (con emojis, secciones plegables, etc.).
